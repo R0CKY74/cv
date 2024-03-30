@@ -11,9 +11,10 @@
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
-  background-image: url('Бригада.png');
+  background: url('фон.jpg') no-repeat center center fixed;
+  background-size: cover; 
 }
-
+-image
 /* Разделы
    ========================================================================== */
 

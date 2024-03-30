@@ -2,6 +2,6 @@
 const button = document.querySelector('button');
 
 /* Тут на кнопку навешиваем обрабочик, который ждёт клика и тогда запустит логику */
-button.addEventListener('click', function(img) {
-	alert('avatar2.png')
+button.addEventListener('click', function(mp4) {
+	alert('12 - Trim.mp4')	
 })
